@@ -30,11 +30,7 @@
 ---
 
 ## 📸 Preview
-
-```
-<img width="379" height="163" alt="image" src="https://github.com/user-attachments/assets/628f1004-5097-4207-8cb8-fb3544f1754b" />
-
-```
+<img width="374" height="159" alt="image" src="https://github.com/user-attachments/assets/8aa19f0c-44c8-4853-8f9f-15dad0d1ad39" />
 
 ---
 
